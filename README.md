@@ -1,5 +1,5 @@
 # NLUGameBus
-This is a website I created for a client. This is an active site for Next Level Up Game Bus
+This is a website I created for a client. This is an active site for Next Level Up Game Bus.
 
 **Link to project:**https://www.nlugamebus.com/
 
