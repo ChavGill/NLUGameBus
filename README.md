@@ -5,7 +5,7 @@ This is a website I created for a client. This is an active site for Next Level 
 
 Using HTML, CSS and JavaScript I was able to create a site for them. This website helped them to close a contract with a school in our city.
 This website gives insight on the company, their services and their fees. Also provides some clickable media to see the bus as well as a 
-contact section, as they prefer phone and e-mail for booking their services.
+contact section, as they prefer phone and e-mail for booking their services. I am excited because this is a black-owned local business and I am honored to help them.
 
 ![NLU Gamebus](https://github.com/ChavGill/ChavGill/blob/main/nlu.gif)
 
